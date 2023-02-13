@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6JEu4RN5mv4_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">EchtLearning</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="EchtLearning_ORG">
+    <organization identifier="EchtLearning_ORG">
+      <title>EchtLearning</title>
+      <item identifier="Untitled4_SCO" isvisible="true" identifierref="__6JEu4RN5mv4_course_id_RES">
+        <title>EchtLearning</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6JEu4RN5mv4_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6nyZ2PZOoda_80_DX1440_DY1440_CX1133_CY718.jpg" />
+      <file href="mobile/6qi9d16Cc31_80_DX308_DY308_CX242_CY107.png" />
+      <file href="mobile/6erm5UBgW19_80_DX80_DY80_CX62_CY62.png" />
+      <file href="mobile/6Ud9Ig9OLXL_80_P_841_-45_1038_1407_DX1364_DY1364_CX538_CY730.jpg" />
+      <file href="mobile/5lA9hMMPyLX_80_DX1440_DY1440_CX1133_CY813.jpg" />
+      <file href="mobile/6c1iqNVpmC6_80_DX160_DY160_CX125_CY125.png" />
+      <file href="mobile/6Bm2G3urLlz_80_DX128_DY128_CX100_CY100.png" />
+      <file href="mobile/5hwSqlOmq2q_80_DX128_DY128_CX100_CY100.png" />
+      <file href="mobile/5r61ryjmzP5_80_DX144_DY144_CX113_CY113.png" />
+      <file href="story_content/WebObjects/6RvDC7tpGXa/About Mahindra Finance (1).pptx" />
+      <file href="story_content/WebObjects/6RvDC7tpGXa/About-Mahindra-Finance-_1_.html" />
+      <file href="mobile/6RvDC7tpGXa5raFneFY1iv{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/6Ajt0JewIbO/Module6_Wet lime stone FGD- ControlV2_31-1-23 (2).pptx" />
+      <file href="story_content/WebObjects/6Ajt0JewIbO/Module6_Wet-lime-stone-FGD-ControlV2_31-1-23-_2_.html" />
+      <file href="mobile/6Ajt0JewIbO5jz28hdH6Xe{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/5da6VV8zB1P/Setting up and Strengthening Disease Surveillance Systems During Emergency (1).pptx" />
+      <file href="story_content/WebObjects/5da6VV8zB1P/Setting-up-and-Strengthening-Disease-Surveillance-Systems-During-Emergency-_1_.html" />
+      <file href="mobile/5da6VV8zB1P5XHutNcDqhl{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/5zjTjx5omad/Motion Graphics.html" />
+      <file href="story_content/WebObjects/5zjTjx5omad/Motion Graphics.pdf" />
+      <file href="mobile/5zjTjx5omad5xQIQLnmlIb{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/6NGO9F9Ks6H/G6_Fibre to Fabric_Chapter_Sample (1) (1).doc" />
+      <file href="story_content/WebObjects/6NGO9F9Ks6H/G6_Fibre-to-Fabric_Chapter_Sample-_1_-_1_.html" />
+      <file href="mobile/6NGO9F9Ks6H6fXFsAAcgLy{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/5WannzWZVSM/ATU_11_bio_ch19_tq19_5_1_Retire_Closed_CE_Closed (1).docx" />
+      <file href="story_content/WebObjects/5WannzWZVSM/ATU_11_bio_ch19_tq19_5_1_Retire_Closed_CE_Closed-_1_.html" />
+      <file href="mobile/5WannzWZVSM6ZdfbuKPKuC{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/5ziuusr5HUW/Math_Class 9_Ch3_Session 17.pptx" />
+      <file href="story_content/WebObjects/5ziuusr5HUW/Math_Class-9_Ch3_Session-17.html" />
+      <file href="mobile/5ziuusr5HUW6icpzqxqcsQ{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/6fX9O7a2aiF/3D Animation.pdf" />
+      <file href="story_content/WebObjects/6fX9O7a2aiF/3D-Animation.html" />
+      <file href="mobile/6fX9O7a2aiF5yVMryzw9A1{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/Illustration Portfolio_Risabh Banshkar (2).pdf" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/p1govp3kc4t9lb4o1k52dmif7d4-html.html" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target001.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target002.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target003.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target004.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target005.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target006.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target007.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target008.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target009.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target010.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target011.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target012.png" />
+      <file href="story_content/WebObjects/5kGt5CMFrlP/target013.png" />
+      <file href="mobile/5kGt5CMFrlP6EXMtbd5p54{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/6TsXO7xRaug/Capture 1 (1).pdf" />
+      <file href="story_content/WebObjects/6TsXO7xRaug/Capture-1-_1_.html" />
+      <file href="mobile/6TsXO7xRaug6dCdoTycYvf{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/5sbKaITpaxR/Participatory Risk Assessment Tools_V2.pptx" />
+      <file href="story_content/WebObjects/5sbKaITpaxR/Participatory-Risk-Assessment-Tools_V2.html" />
+      <file href="mobile/5sbKaITpaxR6YRbxT5qiEJ{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/5kBpKOUzRz7/MM01_T13_TP32_Phy_CL11_Types of Stress and Strain in Elastic Bodies_Fixed_Close (1).docx" />
+      <file href="story_content/WebObjects/5kBpKOUzRz7/MM01_T13_TP32_Phy_CL11_Types-of-Stress-and-Strain-in-Elastic-Bodies_Fixed_Close-_1_.html" />
+      <file href="mobile/5kBpKOUzRz76khPMCVlfGo{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/WebObjects/6kY1gUg5Jjf/GS_gr2_Ch2_tp60_Plants Give Us Food_SB_UPDATED.docx" />
+      <file href="story_content/WebObjects/6kY1gUg5Jjf/GS_gr2_Ch2_tp60_Plants-Give-Us-Food_SB_UPDATED.html" />
+      <file href="mobile/6kY1gUg5Jjf5aNoPPfHRFW{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="mobile/6hSCGAfYWVc_80_P_0_0_1834_1365_DX1608_DY1608_CX1133_CY843.jpg" />
+      <file href="mobile/5pK1XoSr1JB_80_P_62_0_1861_1365_DX1584_DY1584_CX1133_CY831.jpg" />
+      <file href="mobile/5XjkXim9XsY_80_DX308_DY308_CX242_CY151.png" />
+      <file href="mobile/6eYv6Ek55Vy_80_DX192_DY192_CX151_CY151.png" />
+      <file href="mobile/5uNRmE2IeCK_80_DX192_DY192_CX151_CY151.png" />
+      <file href="mobile/6KZHYf2wTnh_80_DX192_DY192_CX151_CY151.png" />
+      <file href="mobile/6Z6vcwr3cZO_80_DX192_DY192_CX151_CY151.jpg" />
+      <file href="mobile/5XP7DQBV6Vf_80_RB9CDE5_P_178_22_1516_2025_DX1080_DY1080_CX629_CY840.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dagjMGBGSI.js" />
+      <file href="html5/data/js/5mbffnXH016.js" />
+      <file href="html5/data/js/5rawqnmfIaY.js" />
+      <file href="html5/data/js/62a84VUQEGn.js" />
+      <file href="html5/data/js/6Ez141KrnM8.js" />
+      <file href="html5/data/js/6nuWS6qJpd0.js" />
+      <file href="html5/data/js/6P1k5UWpDpN.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
